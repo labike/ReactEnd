@@ -1,0 +1,61 @@
+{
+  "user": [
+    {
+      "name": "labike",
+      "username": "admin",
+      "email": "admin@qq.com",
+      "password": "000000",
+      "user_type": 2,
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "mmy",
+      "age": 25,
+      "email": "admin-one@qq.com",
+      "user_type": 0,
+      "username": "admin1",
+      "password": 123456789
+    },
+    {
+      "name": "s4team",
+      "username": "admin3",
+      "email": "s4team@outlook.com",
+      "password": "000000",
+      "user_type": 2,
+      "id": 3
+    },
+    {
+      "name": "admin",
+      "username": "admin4",
+      "email": "123@hotmail.com",
+      "password": "000000",
+      "user_type": 0,
+      "id": 4
+    },
+    {
+      "name": "aaaa",
+      "username": "aaaa",
+      "email": "aaa@11.com",
+      "password": "222222",
+      "user_type": 0,
+      "id": 5
+    },
+    {
+      "name": "ffff",
+      "username": "222@qq.com",
+      "email": "222@qq.com",
+      "password": "000000",
+      "user_type": 1,
+      "id": 7
+    },
+    {
+      "name": "xiaoming",
+      "username": "123456789",
+      "email": "123@qq.com",
+      "password": "123",
+      "user_type": 0,
+      "id": 8
+    }
+  ]
+}

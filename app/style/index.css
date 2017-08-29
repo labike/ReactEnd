@@ -1,0 +1,71 @@
+/*
+所有页面的样式都写在本文件中
+*/
+.layeroutbg {
+    width:100vw;
+    height: 100vh;
+}
+
+.login-form-forgot {
+  float: right;
+}
+
+.login-form-button {
+  width: 100%;
+}
+
+.login-out {
+    margin-left: 10px;
+}
+
+.login-btn {
+    float: right;
+}
+
+.ant-layout-content {
+    padding-left: 10px;
+}
+
+.user-title {
+    display: block;
+    font-size: 20px;
+}
+
+.user-input {
+    width: 200px!important;
+}
+
+.ant-breadcrumb {
+    float:right;
+}
+
+.welcome {
+    height: 360px;
+    line-height: 360px;
+    text-align: center;
+    font-size: 30px;
+}
+
+.username {
+    float: right;
+    font-size: 14px;
+    padding:10px 20px 10px 0;
+}
+
+.login-container {
+    position: absolute;
+    left:calc(50% - 150px);
+    top:calc(50% - 150px);
+    width:300px;
+    height: 300px;
+    padding: 45px 15px 0;
+    background: #fff;
+}
+
+.menu-slide li {
+    padding: 10px;
+}
+
+.menu-slide li a {
+    color: #fff;
+}
