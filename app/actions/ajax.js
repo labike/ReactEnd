@@ -1,7 +1,5 @@
-{/*
-    本文件用于ajax封装，避免每次发ajax时代码重复率高
-*/}
 
+//用于ajax封装，避免每次发ajax时代码重复率高
 
 import { notification,Modal } from 'antd'
 //引入axios用于ajax
